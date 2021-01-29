@@ -14,3 +14,8 @@ Find article [here](https://jayashree8.medium.com/how-to-deal-with-time-series-s
 See folder with notebooks [here](https://github.com/jayashree8/Finance_Trading_In_Python/tree/main/Car%20stock%20analysis)
 
 Find article [here](https://jayashree8.medium.com/toyota-v-s-bmw-v-s-tesla-stock-analysis-using-python-3762caa1713a)
+
+## 4) Statsmodels for time series data:
+See folder with notebooks [here](https://github.com/jayashree8/Finance_Trading_In_Python/tree/main/Statsmodels%20for%20time%20series%20data)
+
+Find article [here](https://jayashree8.medium.com/statsmodels-for-time-series-data-72ddab409fdc)
