@@ -20,12 +20,12 @@ See folder with notebooks [here](https://github.com/jayashree8/Finance_Trading_I
 
 Find article [here](https://jayashree8.medium.com/statsmodels-for-time-series-data-72ddab409fdc)
 
-## 4) ETS model:
+## 5) ETS model:
 See folder with notebooks [here](https://github.com/jayashree8/Finance_Trading_In_Python/tree/main/ETS%20model)
 
 Find article [here](https://jayashree8.medium.com/statsmodels-for-time-series-data-72ddab409fdc)
 
-## 4) EWMA:
+## 6) EWMA:
 See folder with notebooks [here](https://github.com/jayashree8/Finance_Trading_In_Python/tree/main/EWMA)
 
 Find article [here](https://jayashree8.medium.com/how-to-implement-ewma-plots-using-python-8a158e5bab48)
