@@ -23,7 +23,7 @@ Find article [here](https://jayashree8.medium.com/statsmodels-for-time-series-da
 ## 5) ETS model:
 See folder with notebooks [here](https://github.com/jayashree8/Finance_Trading_In_Python/tree/main/ETS%20model)
 
-Find article [here](https://jayashree8.medium.com/statsmodels-for-time-series-data-72ddab409fdc)
+Find article [here](https://jayashree8.medium.com/time-series-decomposition-ets-model-using-python-4d2cd04bab77)
 
 ## 6) EWMA:
 See folder with notebooks [here](https://github.com/jayashree8/Finance_Trading_In_Python/tree/main/EWMA)
