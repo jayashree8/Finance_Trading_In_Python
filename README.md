@@ -29,3 +29,8 @@ Find article [here](https://jayashree8.medium.com/time-series-decomposition-ets-
 See folder with notebooks [here](https://github.com/jayashree8/Finance_Trading_In_Python/tree/main/EWMA)
 
 Find article [here](https://jayashree8.medium.com/how-to-implement-ewma-plots-using-python-8a158e5bab48)
+
+## 7) ARIMA:
+See folder with notebooks [here](https://github.com/jayashree8/Finance_Trading_In_Python/tree/main/ARIMA)
+
+Find article [here](https://jayashree8.medium.com/electricity-production-forecasting-using-arima-model-in-python-d3bf38dc3517)
