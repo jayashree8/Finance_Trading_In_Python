@@ -39,3 +39,5 @@ Find article [here](https://jayashree8.medium.com/electricity-production-forecas
 See folder with notebooks [here](https://github.com/jayashree8/Finance_Trading_In_Python/tree/main/Portfolio%20management)
 
 Find article [here](https://jayashree8.medium.com/portfolio-management-using-python-part-1-portfolio-allocation-df0fe9147ab)
+
+Find article [here](https://jayashree8.medium.com/portfolio-management-using-python-portfolio-optimization-8a90dd2a21d)
